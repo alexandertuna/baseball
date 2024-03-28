@@ -1,0 +1,7 @@
+micrograd/
+__pycache__/
+*pdf
+*svg
+*gv
+*pyc
+*~
