@@ -12,3 +12,8 @@ python main.py
 pytest
 ```
 
+Quick start, notebook:
+
+```
+%pip install git+https://github.com/alexandertuna/baseball # --force-reinstall
+```
