@@ -1,4 +1,4 @@
-from residency import helloworld
+from baseball import helloworld
 
 def test_repo():
     hw = helloworld.HelloWorld()

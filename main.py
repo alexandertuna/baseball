@@ -1,6 +1,6 @@
 import time
 
-from residency import helloworld
+from baseball import helloworld
 
 def main():
     hw = helloworld.HelloWorld()
